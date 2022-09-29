@@ -46,6 +46,17 @@ sudo ${yum|apt-get} install nmap
 4. >[parse firefox db](./chapter03/firefox_parse.py) (at ~/.mozilla/firefox/{somename}.default-default/ on centos)
 5. >[iphone massages](./chapter03/iphone_messages.py)
 
+### chapter04
+1. >[Geo locate IP](./chapter04/geo_ip.py)
+2. >[Geo Print](./chapter04/geo_print.py)
+3. >[Create Google Earth kml from pcap](./chapter04/google_earth_pcap.py)
+4. >[Identify DDoS attack](./chapter04/find_ddos.py)
+5. >[Print Request IP Directions](./chapter04/print_direction.py)
+6. >[Spoofing Detection](./chapter04/spoof_detect.py)
+7. >[mitnick attack](./chapter04/mitnick_attack.py)
+8. >[foiling intrusion detection](./chapter04/ids_foil.py)
+
 ### extras
 1. >[simple ddos](./extras/ddos.py)
 2. >[ping flood](./extras/ping_flood.sh)
+3. >[nmap decoy scan](./extras/nmap_decoy_scan.sh)
