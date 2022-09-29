@@ -60,3 +60,4 @@ sudo ${yum|apt-get} install nmap
 1. >[simple ddos](./extras/ddos.py)
 2. >[ping flood](./extras/ping_flood.sh)
 3. >[nmap decoy scan](./extras/nmap_decoy_scan.sh)
+4. >[brute force wifi password](./extras/wifi_brute_force.py)
