@@ -9,5 +9,5 @@ geoip2~=3.0.0
 dpkt~=1.9.2
 scapy~=2.4.3
 IPy~=1.0
-pybluez~=0.23
+# pybluez~=0.23
 MechanicalSoup~=0.12.0
