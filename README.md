@@ -45,3 +45,7 @@ sudo ${yum|apt-get} install nmap
 3. >[parse skype db](./chapter03/skype_parse.py)
 4. >[parse firefox db](./chapter03/firefox_parse.py) (at ~/.mozilla/firefox/{somename}.default-default/ on centos)
 5. >[iphone massages](./chapter03/iphone_messages.py)
+
+### extras
+1. >[simple ddos](./extras/ddos.py)
+2. >[ping flood](./extras/ping_flood.sh)
