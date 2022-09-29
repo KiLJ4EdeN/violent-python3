@@ -38,3 +38,10 @@ sudo ${yum|apt-get} install nmap
 12. >[mass ftp attack](./chapter02/ftp_mass_compromise.py)
 13. >[conficker](./chapter02/conficker.py)
 14. >[free float overflow](./chapter02/free_float.py)
+
+### chapter03
+1. >[pdf meta](./chapter03/pdf_read.py)
+2. >[fetch exif meta](./chapter03/exif_fetch.py)
+3. >[parse skype db](./chapter03/skype_parse.py)
+4. >[parse firefox db](./chapter03/firefox_parse.py) (at ~/.mozilla/firefox/{somename}.default-default/ on centos)
+5. >[iphone massages](./chapter03/iphone_messages.py)
