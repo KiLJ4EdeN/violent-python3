@@ -28,7 +28,7 @@ def conn_scan(tgt_host, tgt_port):
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as conn_skt:
         try:
             conn_skt.connect((tgt_host, tgt_port))
-            conn_skt.send(b'ViolentPython\r\n')
+            conn_skt.send(b'HiBuddy\r\n')
             results = conn_skt.recv(100).decode('utf-8')
             screen_lock.acquire()
             print(f'[+] {tgt_port}/tcp open')
