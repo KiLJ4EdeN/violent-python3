@@ -36,8 +36,8 @@ def add_client(host, user, password):
 
 if __name__ == '__main__':
     botnet = []
-    add_client('127.0.0.1', 'root', 'toor')
-    add_client('127.0.0.1', 'root', 'toor')
-    add_client('127.0.0.1', 'root', 'toor')
+    add_client('127.0.0.1', 'parsa', '1234')
+    add_client('127.0.0.1', 'parsa', '1234')
+    add_client('127.0.0.1', 'parsa', '1234')
 
-    botnet_command('uname -v && cat /etc/issue')
+    botnet_command('ls')

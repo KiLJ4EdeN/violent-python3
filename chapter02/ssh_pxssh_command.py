@@ -18,5 +18,5 @@ def connect(host, user, password):
 
 
 if __name__ == '__main__':
-    conn = connect('127.0.0.1', 'root', 'toor')
-    send_command(conn, 'sudo cat /etc/shadow | grep root')
+    conn = connect('127.0.0.1', 'parsa', '1234')
+    send_command(conn, 'echo "oh buddy your in trouble"')

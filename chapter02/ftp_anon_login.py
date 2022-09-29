@@ -16,5 +16,5 @@ def anon_login(hostname):
 
 
 if __name__ == "__main__":
-    host = '192.168.95.179'
+    host = '127.0.0.1'
     anon_login(host)
