@@ -1,6 +1,7 @@
 import zipfile
 import argparse
 from threading import Thread
+import shutil
 
 
 def extract_file(zfile, password):

@@ -18,3 +18,8 @@ create environment and install deps
 python -m venv env
 pip install -r requirements.txt
 ```
+
+
+### chapter01
+1. >[unix password cracker using dictionary attack](./chapter01/passwd_crack.py)
+2. >[zip file cracker](./chapter01/zip_crack.py)
